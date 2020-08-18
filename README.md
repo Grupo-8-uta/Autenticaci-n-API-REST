@@ -1,2 +1,8 @@
 # Autenticaci-n-API-REST
 Autenticación API REST
+2.3 Resumen
+El presente proyecto esta centrado en analizar las diferentes formas en que se puede
+crear un servicio REST para la autenticación de usuarios utilizando las librerías JWT, así
+como también identificar todas las partes como esta compuesta la estructura de un token.
+Además, se mencionará el proceso que se tiene que llevar a cabo para la creación de un
+token de seguridad conjuntamente con una pequeña demostración de la aplicación.
